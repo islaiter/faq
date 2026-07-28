@@ -210,7 +210,7 @@ Below you will see Hunting Zone and it's corresponding Territory.
 
 Access Maria for Teleport > Town and Villages > Select the Corresponding Territory you want to farm in.
 
-Hunt outside of villages until Level 7, keep in mind the Levels are Hunting Zone levels, not when you should leave / hunt. [You will deal one damage to monsters if the level of your skills is not sufficient.](https://tab1-web.github.io/faq/eternal/faq/#mage-skill-damage-based-on-level-difference)
+Hunt outside of villages until Level 7, keep in mind the Levels are Hunting Zone levels, not when you should leave / hunt. [You will deal one damage to monsters if the level of your skills is not sufficient.](https://islaiter.github.io/faq/eternal/faq/#mage-skill-damage-based-on-level-difference)
 
 If you think you are getting low experience, move to a higher spot.
 
@@ -259,7 +259,7 @@ If you think you are getting low experience, move to a higher spot.
 - **53-63**: Frozen Labyrinth - Schuttgart
     - [:fontawesome-solid-scroll: An Ice Merchant's Dream Quest](https://lineage2wiki.org/interlude/quest/648/an-ice-merchants-dream/)
         - Quest Requirement: [:fontawesome-solid-scroll: The Other Side of Truth Quest](https://lineage2wiki.org/interlude/quest/115/the-other-side-of-truth/)
-        - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/icemerchant/)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](https://islaiter.github.io/faq/eternal/questexchanges/icemerchant/)
     - Great for Adena + Materials farming
 
 
@@ -325,7 +325,7 @@ If you think you are getting low experience, move to a higher spot.
 
 - **63-69**: Forest of the Dead - Rune
     - [:fontawesome-solid-scroll: Necromancer's Request Quest](https://lineage2wiki.org/interlude/quest/632/necromancers-request/)
-        - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/necromancer/)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](https://islaiter.github.io/faq/eternal/questexchanges/necromancer/)
 
 
 
@@ -333,7 +333,7 @@ If you think you are getting low experience, move to a higher spot.
 - **64-70**: Ancient Battleground - Aden
     - [:fontawesome-solid-scroll: Seductive Whispers Quest](https://lineage2wiki.org/interlude/quest/663/seductive-whispers/)
         - Gambling-style quest (requires 50 beads to play)
-        - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/seductive/)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](https://islaiter.github.io/faq/eternal/questexchanges/seductive/)
 
 
 
@@ -350,7 +350,7 @@ If you think you are getting low experience, move to a higher spot.
         - Only Part 1 required
         - and [:fontawesome-solid-scroll: In Search of the Nest Quest](https://lineage2wiki.org/interlude/quest/109/in-search-of-the-nest/)
     - [:fontawesome-solid-scroll: The Zero Hour Quest](https://lineage2wiki.org/interlude/quest/640/the-zero-hour/)
-        - [:fontawesome-solid-handshake: Quest Item Exchange](https://tab1-web.github.io/faq/eternal/questexchanges/zerohour/)
+        - [:fontawesome-solid-handshake: Quest Item Exchange](https://islaiter.github.io/faq/eternal/questexchanges/zerohour/)
         - Not really recommended because of the slow mob respawn
 
 

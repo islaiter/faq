@@ -1389,7 +1389,7 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
                 <tr>
                     <td>52</td>
                     <td>An Ice Merchant's Dream	</td>
-                    <td>Great quest for Materials, Requires Other Side of Truth Quest <br> <a href="https://tab1-web.github.io/faq/eternal/questexchanges/icemerchant/">Exchanges Link</a></td>
+                    <td>Great quest for Materials, Requires Other Side of Truth Quest <br> <a href="https://islaiter.github.io/faq/eternal/questexchanges/icemerchant/">Exchanges Link</a></td>
                 </tr>
                 <tr>
                     <td>55</td>
@@ -1825,7 +1825,7 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
                 <tr>
                     <td>66</td>
                     <td>The Zero Hour</td>
-                    <td>Material Quest, Requirement: Hunt of The Golden Ram Mercenary Force Part 1 and In Search of the Nest Quest <br> <a href="https://tab1-web.github.io/faq/eternal/questexchanges/zerohour/">Exchanges Link</a></td>
+                    <td>Material Quest, Requirement: Hunt of The Golden Ram Mercenary Force Part 1 and In Search of the Nest Quest <br> <a href="https://islaiter.github.io/faq/eternal/questexchanges/zerohour/">Exchanges Link</a></td>
                 </tr>
                 <tr>
                     <td>66</td>
@@ -2278,12 +2278,12 @@ Honorable Mention for Spoilers: [Cypheron's Spoiler App](https://cypheron.itch.i
                 <tr>
                     <td>75</td>
                     <td>Mimir's Elixir</td>
-                    <td>Subclass Quest, needs: 100 Moonstone Shards, 10 Volcano Ash, 2 Quick Silver from <a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a> <br> <a href="https://tab1-web.github.io/faq/gameplay/progression/subclasses/">Subclass Info</a></td>
+                    <td>Subclass Quest, needs: 100 Moonstone Shards, 10 Volcano Ash, 2 Quick Silver from <a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a> <br> <a href="https://islaiter.github.io/faq/gameplay/progression/subclasses/">Subclass Info</a></td>
                 </tr>
                 <tr>
                     <td>50 Sub</td>
                     <td>Noblesse Quests</td>
-                    <td><a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a> <br> <strong>WARNING:</strong> On the Wiki Demonic Essence is needed for Hellfire Oil, not Draconic Essence <br> <a href="https://tab1-web.github.io/faq/gameplay/progression/subclasses/">Noblesse Info</a> </td>
+                    <td><a href="https://lineage2wiki.org/c5/quest/373/supplier-of-reagents/">Supplier of Reagents Quest</a> <br> <strong>WARNING:</strong> On the Wiki Demonic Essence is needed for Hellfire Oil, not Draconic Essence <br> <a href="https://islaiter.github.io/faq/gameplay/progression/subclasses/">Noblesse Info</a> </td>
                 </tr>
             </tbody>
         

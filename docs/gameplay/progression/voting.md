@@ -19,7 +19,7 @@ icon: material/vote-outline
     - **By buying VIP**: it **lasts longer** and you **support the server!**
 
 - You can vote again using **Mobile Data** or **VPN**
-    - This doesn't mean you can dual-box. *See [rules.](https://tab1-web.github.io/faq/support/rules/)*
+    - This doesn't mean you can dual-box. *See [rules.](https://islaiter.github.io/faq/support/rules/)*
 
 **How to activate them?**
 

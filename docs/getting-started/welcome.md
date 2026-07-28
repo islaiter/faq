@@ -29,7 +29,7 @@ Make sure you download the games on **SSD**, it will significantly increase down
 
 You can check out a **quick server summary** [here](/faq/getting-started/servers).
 
-For any other issue, please refer to the [Help & Support page](https://tab1-web.github.io/faq/support/troubleshooting/technical-issues/).
+For any other issue, please refer to the [Help & Support page](https://islaiter.github.io/faq/support/troubleshooting/technical-issues/).
 
 
 ## :fontawesome-solid-user: Account Registration

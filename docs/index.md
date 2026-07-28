@@ -16,7 +16,7 @@ For official updates and support, please visit the game’s [official website.](
 
 Comments are enabled!
 
-- You can also make your [edits](https://github.com/tab1-web/faq) here 
+- You can also make your [edits](https://github.com/islaiter/faq) here 
 
 ## Tools
 

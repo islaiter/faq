@@ -92,7 +92,7 @@ Daily Peaks are without offline shop being counted, there are also more people l
 
 <br>
 
-- **[Arena](https://tab1-web.github.io/faq/arena/overview/) (Custom)**
+- **[Arena](https://islaiter.github.io/faq/arena/overview/) (Custom)**
     - Plug-and-play PvP Server
     - Every class is viable and team composition counts
     - Coming in **2027 (Project Delayed from 2026 Q2)**
