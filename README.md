@@ -63,4 +63,3 @@ Once you submit a Pull Request, a maintainer will review your changes. We may as
 ### Where to put these files?
 
 Place markdown files in the **docs directory** of the project.
-
