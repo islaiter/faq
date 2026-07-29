@@ -14,9 +14,20 @@ For official updates and support, please visit the game’s [official website.](
 
 **This is a website dedicated to streamline assistance without the need of having to ask.**{style="color:yellow;"} 
 
-Comments are enabled!
-
 - You can also make your [edits](https://github.com/islaiter/faq) here 
+
+## Credits
+- **:material-crown: Tabi**{style="color:rgb(107, 103, 223); font-weight: bold;"} 
+
+    Original Website Design & Development.
+
+- **:material-crown: Jade Ink**{style="color: #00bb77; font-weight: bold;"}
+    
+    Thanks to Jade Ink for simplifying and enhancing portions of the document. :slight_smile:
+
+- **:material-crown: Fox**{style="color: #408d39; font-weight: bold;"}
+  
+    Thanks to Fox for his suggestions regarding GIFs and the website. :slight_smile:
 
 ## Tools
 
@@ -51,16 +62,3 @@ Zensical is designed to be a drop-in replacement. We can eventually switch to it
 For now, we are staying on MkDocs 1.x (the current version). It is stable, and the Material team is committed to keeping it working until the new tool is ready.
 
 More info [here](https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/).
-
-## Credits
-- **:material-crown: Tabi**{style="color:rgb(107, 103, 223); font-weight: bold;"} 
-
-    Website Design & Development.
-
-- **:material-crown: Jade Ink**{style="color: #00bb77; font-weight: bold;"}
-    
-    Thanks to Jade Ink for simplifying and enhancing portions of the document. :slight_smile:
-
-- **:material-crown: Fox**{style="color: #408d39; font-weight: bold;"}
-  
-    Thanks to Fox for his suggestions regarding GIFs and the website. :slight_smile:
