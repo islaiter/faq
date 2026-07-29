@@ -88,10 +88,10 @@ nav:
       - 003 Essential Fatal Crush Cooldown Reduction: essence/exp003.md
       - 002 Mystic Explosion Relict Cooldown Reduction: essence/exp002.md
       - 001 Triple Shot Cooldown Reduction: essence/exp001.md
+  - Guardian:
+    - Overview: guardian/overview.md
   - Arena:
     - Overview: arena/overview.md
-  - Remastered:
-    - Overview: remastered/overview.md
   - Legacy:
     - Overview: legacy/overview.md
     - Updates: legacy/updates.md

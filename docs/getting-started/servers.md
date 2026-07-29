@@ -100,11 +100,10 @@ Daily Peaks are without offline shop being counted, there are also more people l
 
 <br>
 
-- **[Remastered](/faq/remastered/overview/) (Custom)**
+- **[Guardian](/faq/guardian/overview/) (Custom)**
     - Progressive Chapter System (1 Chapter/Month)
-    - Personal housing, idling progress, competitive 
-    - Coming in **2026 Q4**
-    - **Good for:** Solo, group players that prefer modern-remaster like concepts.
+    - Reworked Essence server without pay2win mechanics 
+    - **Good for:** Solo players that want mostly and IDLE experience**
 
 <br>
 
