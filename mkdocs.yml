@@ -16,7 +16,8 @@ extra:
 
 nav:
   - Home: 
-    - Index: index.md
+    - Index: home/index.md
+    - Changelog: home/changelog.md
   - Getting Started:
     - Welcome: getting-started/welcome.md
     - Servers: getting-started/servers.md
@@ -90,8 +91,6 @@ nav:
       - 001 Triple Shot Cooldown Reduction: essence/exp001.md
   - Guardian:
     - Overview: guardian/overview.md
-  - Arena:
-    - Overview: arena/overview.md
   - Legacy:
     - Overview: legacy/overview.md
     - Updates: legacy/updates.md
@@ -102,6 +101,9 @@ nav:
     - Catchup and Merges: legacy/catchup.md
     - Fighting Cheaters: legacy/anticheaters.md
     - Monetization: legacy/monetization.md
+  - Arena:
+    - Overview: arena/overview.md
+
 
 
   
