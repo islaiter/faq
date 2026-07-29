@@ -91,6 +91,10 @@ nav:
       - 001 Triple Shot Cooldown Reduction: essence/exp001.md
   - Guardian:
     - Overview: guardian/overview.md
+    - Chapters: guardian/chapters.md
+    - Hunting Grounds: guardian/hunting.md
+    - Items Acquisition: guardian/items.md
+    - Class Balance: guardian/balance.md
   - Legacy:
     - Overview: legacy/overview.md
     - Updates: legacy/updates.md
