@@ -1,3 +1,7 @@
+# Original Work
+
+Most of the original work was done by the original creator of the website, Tab1, the original repo can be found [here](https://github.com/tab1-web/faq). During the first half of 2026, the site stopped receiving updates, and as the original content is very useful to everyone in the Reborn server, I felt the need to continue Tabi's great work, that is why this is a repository mirror from the original, to continue development work to try and stay up to date. Also big thanks to everyone who participated in the original project.
+
 # FAQ & Documentation
 
 Welcome to this repository! This site is built using [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and serves as a central hub for our guides and frequently asked questions.
