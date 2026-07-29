@@ -2,34 +2,37 @@
 
 <div class="legacy-container">
   <div class="legacy-header">
-    <p>Legacy follows the original 7-year progression path from C1 to High Five.</p>
-    <p>Thank you @Glock</p>
+    <p>Perfectly designed to allow players to enjoy every chronicle, not too fast, not too slow, just the sweet spot.</p>
+    <details>
+    <summary>⚠️ <strong>Warning:</strong> Dates are subject to small adjustments.</summary>
+    <p>Time between chronicles has been deeply studied and designed for proper server progression based in our large experience in low rate progressive servers.</p>
+    </details>
   </div>
   
   <div class="legacy-timeline-wrapper">
     <table class="legacy-table">
       <thead>
         <tr>
-          <th>Chronicle Evolution</th>
-          <th>Historical Date Range</th>
-          <th>Patch Duration</th>
+          <th>Chronicle</th>
+          <th>Estimated Date</th>
+          <th>Patchnotes</th>
         </tr>
       </thead>
       <tbody>
-        <tr><td><strong><a href="https://lineage2wiki.org/c1/patch-notes/">C1</a> &rarr; <a href="https://lineage2wiki.org/c2/patch-notes/">C2</a></strong></td><td>28 Jun 2004 &mdash; 8 Dec 2004</td><td>~5 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/c2/patch-notes/">C2</a> &rarr; <a href="https://lineage2wiki.org/c3/patch-notes/">C3</a></strong></td><td>8 Dec 2004 &mdash; 10 May 2005</td><td>~5 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/c3/patch-notes/">C3</a> &rarr; <a href="https://lineage2wiki.org/c4/patch-notes/">C4</a></strong></td><td>10 May 2005 &mdash; 8 Feb 2006</td><td>~9 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/c4/patch-notes/">C4</a> &rarr; <a href="https://lineage2wiki.org/c5/patch-notes/">C5</a></strong></td><td>8 Feb 2006 &mdash; 6 Sep 2006</td><td>~7 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/c5/patch-notes/">C5</a> &rarr; <a href="https://lineage2wiki.org/interlude/patch-notes/">Interlude</a></strong></td><td>6 Sep 2006 &mdash; 11 Apr 2007</td><td>~7 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/interlude/patch-notes/">Interlude</a> &rarr; <a href="https://lineage2wiki.org/kamael/patch-notes/">The Kamael</a></strong></td><td>11 Apr 2007 &mdash; 11 Dec 2007</td><td>~8 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/kamael/patch-notes/">The Kamael</a> &rarr; <a href="https://lineage2wiki.org/hellbound/patch-notes/">Hellbound</a></strong></td><td>11 Dec 2007 &mdash; 23 Apr 2008</td><td>~4 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/hellbound/patch-notes/">Hellbound</a> &rarr; <a href="https://lineage2wiki.org/gracia1/patch-notes/">Gracia Part 1</a></strong></td><td>23 Apr 2008 &mdash; 12 Aug 2008</td><td>~4 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/gracia1/patch-notes/">Gracia Part 1</a> &rarr; <a href="https://lineage2wiki.org/gracia2/patch-notes/">Part 2</a></strong></td><td>12 Aug 2008 &mdash; 28 Oct 2008</td><td>~2 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/gracia2/patch-notes/">Part 2</a> &rarr; <a href="https://lineage2wiki.org/gracia-final/patch-notes/">Gracia Final</a></strong></td><td>28 Oct 2008 &mdash; 28 Apr 2009</td><td>~6 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/gracia-final/patch-notes/">Gracia Final</a> &rarr; <a href="https://lineage2wiki.org/gracia-epilogue/patch-notes/">Epilogue</a></strong></td><td>28 Apr 2009 &mdash; 17 Nov 2009</td><td>~7 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/gracia-epilogue/patch-notes/">Epilogue</a> &rarr; <a href="https://lineage2wiki.org/freya/patch-notes/">Freya</a></strong></td><td>17 Nov 2009 &mdash; 24 Aug 2010</td><td>~9 Months</td></tr>
-        <tr><td><strong><a href="https://lineage2wiki.org/freya/patch-notes/">Freya</a> &rarr; <a href="https://lineage2wiki.org/hi-five/patch-notes/">High Five</a></strong></td><td>24 Aug 2010 &mdash; 15 Feb 2011</td><td>~6 Months</td></tr>
-        <tr class="timeline-end"><td><strong><a href="https://lineage2wiki.org/hi-five/patch-notes/">High Five</a> &rarr; End of Journey</strong></td><td>15 Feb 2011 &mdash; 14 Mar 2011</td><td>~9 Months</td></tr>
+        <tr><td><strong>Chronicle 1 </strong></td><td>06 November 2026</td><td><a href="https://lineage2wiki.org/c1/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Chronicle 2 </strong></td><td>06 March 2027</td><td><a href="https://lineage2wiki.org/c2/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Chronicle 3 </strong></td><td>04 July 2027</td><td><a href="https://lineage2wiki.org/c3/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Chronicle 4 </strong></td><td>15 January 2028</td><td><a href="https://lineage2wiki.org/c4/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Chronicle 5 </strong></td><td>14 May 2028</td><td><a href="https://lineage2wiki.org/c5/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Chronicle 6 </strong></td><td>11 September 2028</td><td><a href="https://lineage2wiki.org/interlude/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Kamael </strong></td><td>10 March 2029</td><td><a href="https://lineage2wiki.org/kamael/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Hellbound </strong></td><td>08 June 2029</td><td><a href="https://lineage2wiki.org/hellbound/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Gracia 1 </strong></td><td>06 October 2029</td><td><a href="https://lineage2wiki.org/gracia1/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Gracia 2 </strong></td><td>05 December 2029</td><td><a href="https://lineage2wiki.org/gracia2/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Gracia Final </strong></td><td>04 April 2030</td><td><a href="https://lineage2wiki.org/gracia-final/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Gracia Epilogue </strong></td><td>07 September 2030</td><td><a href="https://lineage2wiki.org/gracia-epilogue/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>Freya </strong></td><td>06 March 2031</td><td><a href="https://lineage2wiki.org/freya/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
+        <tr><td><strong>High Five </strong></td><td>03 August 2031</td><td><a href="https://lineage2wiki.org/hi-five/patch-notes/" target="_blank" rel="noopener noreferrer">Link</a></td></tr>
       </tbody>
     </table>
   </div>
