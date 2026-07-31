@@ -6,6 +6,7 @@
 - Reorganizing general information for Guardian
 - Reorganizing a bit of Guardian chapters information, moving chapter 1 to it's own page
 - Adding information about Chapter 2 from Reborn's website
+- Added Resources section to Legacy
 
 ## 29 July 2026
 
