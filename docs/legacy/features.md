@@ -22,6 +22,7 @@
 - From C4: Olympiad: Available only on weekends (Friday and Saturday), 2 hours per day, with match and point limits (Signature/Origins-like).
 - From C4: Hot Springs buffs removed.
 - From C4: Sleep cast time increased (C5-like).
+- From C4: Materials required for S grade Weapons fixed (Fix originally made in Hellbound in official).
 - From C6: Added a system to exchange low-level Life Stones for higher-level ones.
 - From C6: Several augments have been reworked (Signature-like), with Wild Magic augments receiving special attention and being nerfed.,
 - From C6: Flames of Invincibility is removed upon taking any action (Gracia Final-like).

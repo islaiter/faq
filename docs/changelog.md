@@ -1,5 +1,12 @@
 # Changelog
 
+## 31 July 2026
+
+- Fixing home link giving a 404 error
+- Reorganizing general information for Guardian
+- Reorganizing a bit of Guardian chapters information, moving chapter 1 to it's own page
+- Adding information about Chapter 2 from Reborn's website
+
 ## 29 July 2026
 
 - Webiste development contunues
@@ -10,3 +17,4 @@
 - Updating project readme in github to show current status
 - Move credits in Home to top of the page, so it is more visible
 - Changing positions in top nav bar for Legacy and Arena, as Legacy will release earlier
+- Added Guardian server information for Chapter 1

@@ -16,8 +16,8 @@ extra:
 
 nav:
   - Home: 
-    - Index: home/index.md
-    - Changelog: home/changelog.md
+    - Index: index.md
+    - Changelog: changelog.md
   - Getting Started:
     - Welcome: getting-started/welcome.md
     - Servers: getting-started/servers.md
@@ -91,10 +91,11 @@ nav:
       - 001 Triple Shot Cooldown Reduction: essence/exp001.md
   - Guardian:
     - Overview: guardian/overview.md
-    - Chapters: guardian/chapters.md
     - Hunting Grounds: guardian/hunting.md
     - Items Acquisition: guardian/items.md
-    - Class Balance: guardian/balance.md
+    - Chapters: guardian/chapters.md
+    - Chapter 1: guardian/chapter1.md
+    - Chapter 2: guardian/chapter2.md
   - Legacy:
     - Overview: legacy/overview.md
     - Updates: legacy/updates.md
