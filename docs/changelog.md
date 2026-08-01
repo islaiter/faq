@@ -1,5 +1,9 @@
 # Changelog
 
+## 1 August 2026
+
+- Updating information from Discord into Legacy section
+
 ## 31 July 2026
 
 - Fixing home link giving a 404 error
