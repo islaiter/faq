@@ -2,9 +2,9 @@
 
 ##  Plan A - Continuous Catch-up
 
-**This is Reborn's team preferred solution**
+Our preferred solution is a continuously evolving Newbie Guide.
 
-Reborn's team preferred solution is a continuously evolving Newbie Guide, as the server progresses, the Newbie Guide will also evolve, helping new and returning players reach the current stage of the server without months of solo progression through empty low-level areas.
+As the server progresses, the Newbie Guide will also evolve, helping new and returning players reach the current stage of the server without months of solo progression through empty low-level areas.
 
 Depending on the current server stage, it may provide:
 
@@ -18,9 +18,13 @@ The exact rewards will be updated over time according to the server's progressio
 
 ##  Plan B - Emergency Bonus Server
 
-If, despite their efforts, the population ever reaches a point where Legacy genuinely needs a large influx of players, they may consider launching a Bonus Server that will eventually merge into Legacy.
+If, despite our efforts, the population ever reaches a point where Legacy genuinely needs a large influx of players, we may consider launching a Bonus Server that will eventually merge into Legacy.
 
-This is not part of the normal roadmap, it is an emergency solution that would only be used if truly necessary, even then, they would limit ourselves to a maximum of two Bonus Servers during Legacy's entire lifespan, and never more frequently than once every two years.
+This is not part of the normal roadmap.
+
+It is an emergency solution that would only be used if truly necessary.
+
+Even then, we would limit ourselves to a maximum of two Bonus Servers during Legacy's entire lifespan, and never more frequently than once every two years.
 
 The possible merge windows would only be shortly after major chronicle updates, allowing both servers to be at comparable progression before merging.
 

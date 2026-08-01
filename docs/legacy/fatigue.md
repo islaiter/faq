@@ -33,7 +33,7 @@ It is not consumed while you are:
 
 ## Daily Stamina
 
-Every day at the daily reset (06:30 UTC), your Character recovers 8 hours worth of Stamina.
+Every day at the daily reset (06:30 UTC), your Character recovers up 8 hours worth of Stamina. Depending on your current stamina.
 
 If you do not play every day, your Stamina continues to accumulate, allowing you to save it for weekends or longer play sessions.
 

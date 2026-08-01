@@ -49,13 +49,13 @@ These cosmetics are permanent, becoming part of your collection forever, but the
 
 This is probably one of the most discussed topics whenever someone talks about a long-term server.
 
-Reborn's team understand why. Many players dislike catch-up systems and merges because they often feel unfair, poorly balanced, or easily abused.
+We understand why. Many players dislike catch-up systems and merges because they often feel unfair, poorly balanced, or easily abused.
 
 At the same time, keeping a single MMORPG server healthy for 5+ years without bringing in new players is an extremely difficult challenge.
 
-Their philosophy is simple:
+Our philosophy is simple:
 
-**Avoid launching additional servers and avoid merges whenever possible.**
+Avoid launching additional servers and avoid merges whenever possible.
 
 More info regarding this section can be found in [Catchup and merges](catchup.md)
 
