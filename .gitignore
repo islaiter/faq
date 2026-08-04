@@ -127,9 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-check_discord.txt
-check_webiste.txt
-
-/docs/legacy/check_discord.txt
-/docs/legacy/check_webiste.txt
