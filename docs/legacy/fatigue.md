@@ -6,7 +6,7 @@ To achieve this, Legacy introduces the Stamina System.
 
 ## How does it work?
 
-Every Character has a Stamina Gauge.
+Every Account has a Stamina Gauge.
 
 While you are actively hunting monsters, your Stamina slowly decreases. As your Stamina gets lower, your EXP, SP, Adena, Drop and Spoil rates are gradually reduced.
 
@@ -33,7 +33,7 @@ It is not consumed while you are:
 
 ## Daily Stamina
 
-Every day at the daily reset (06:30 UTC), your Character recovers up 8 hours worth of Stamina. Depending on your current stamina.
+Every day at the daily reset (06:30 UTC), your Account recovers up 8 hours worth of Stamina. Depending on your current stamina.
 
 If you do not play every day, your Stamina continues to accumulate, allowing you to save it for weekends or longer play sessions.
 
@@ -43,10 +43,10 @@ Stamina can be stored for up to 24 hours of Active Hunting.
 
 Your regular hunting rates are adjusted according to your remaining Stamina:
 
-- First 4 hours: 100%
-- Next 2 hours: 50% (Hours 5 and 6)
-- Next 2 hours: 30% (Hours 7 and 8)
-- No Stamina remaining: 5% (values may still be adjusted during testing)
+Playing for 5~6 hours: 100% rates This is here most of the players usually are at (around 90% of the player base)
+Continue playing up to 6~8 hours: 70% rates
+Continue playing up to 8~10 hours 30%
+Continue playing: 5%
 
 Hunting rates affect all of the following:
 
@@ -57,6 +57,7 @@ Hunting rates affect all of the following:
 - Spoil
 
 **It doesn't affect raid bosses**
+**Values are subject to small adjustments**
 
 ## Why was this system added?
 

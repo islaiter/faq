@@ -92,7 +92,7 @@ One of the main goals of Reborn Legacy is to preserve the spirit of Lineage II w
 To achieve this, Legacy introduces the Stamina System.
 
 ❓ How does it work?
-Every Character has a Stamina Gauge.
+Every Account has a Stamina Gauge.
 
 While you are actively hunting monsters, your Stamina slowly decreases. As your Stamina gets lower, your EXP, SP, Adena, Drop and Spoil rates are gradually reduced.
 
@@ -117,20 +117,21 @@ It is not consumed while you are:
 ☕ Being AFK.
 
 🔋 Daily Stamina
-Every day at the daily reset (06:30 UTC), your Character recovers up 8 hours worth of Stamina. Depending on your current stamina.
+Every day at the daily reset (06:30 UTC), your Account recovers up 8 hours worth of Stamina. Depending on your current stamina.
 
 If you do not play every day, your Stamina continues to accumulate, allowing you to save it for weekends or longer play sessions.
 
 Stamina can be stored for up to 24 hours of Active Hunting.
 
 📈 Rate Reduction
-Your regular hunting rates are adjusted according to your remaining Stamina:
+Your regular hunting rates are adjusted according to your remaining Stamina, the play time depends on the amount of time that you are actively hunting, you can find below some estimation about the daily play time that may require to consume each Stamina threshold
 
-First 4 hours: 100%
-Next 2 hours: 50%
-Next 2 hours: 30%
-No Stamina remaining: 5% (values may still be adjusted during testing)
+Playing for 5~6 hours: 100% rates This is here most of the players usually are at (around 90% of the player base)
+Continue playing up to 6~8 hours: 70% rates
+Continue playing up to 8~10 hours 30%
+Continue playing: 5%
 
+Values are subject to small adjustments
 It doesn't affect raid bosses
 
 ❤️ Why did we add this system?
