@@ -1,0 +1,304 @@
+An Introduction to Reborn Legacy
+
+Reborn Legacy is a progressive chronicle server that starts from Chronicle 1 and gradually updates all the way to High Five over the course of approximately five years.
+
+The core idea behind the project is to give players the opportunity to experience the original game once again from the very beginning: exploring every corner of the world, enjoying every chronicle, and even discovering some of them for the very first time.
+
+The game is about the journey, not the destination. For many of us, this is the last chance to relive that journey and one final adventure together, meant to be enjoyed at our own pace.
+
+We have removed everything we consider toxic or detrimental to the gameplay, based on our own vision, more than seven years of experience managing servers, and feedback from tens of thousands of players. At the same time, we have remained faithful to the original game and its core design. That is why Legacy is considered a true Vanilla server, refined into its best possible form.
+
+The concept is designed for players in 2026, taking into account their age, the time they have available to play, and what they are truly looking for in a server like this. That's why the social aspect of the game, a fair environment, and the freedom to play your own way while having fun are some of the fundamental principles of Reborn Legacy.
+
+Legacy Server Roadmap
+
+Perfectly designed to allow players to enjoy every chronicle, not too fast, not too slow, just the sweet spot.
+
+Chronicle 1 — 06 November 2026
+Chronicle 2 — 06 March 2027
+Chronicle 3 — 04 July 2027
+Chronicle 4 — 15 January 2028
+Chronicle 5 — 14 May 2028
+Chronicle 6 — 11 September 2028
+Kamael — 10 March 2029
+Hellbound — 08 June 2029
+Gracia 1 — 06 October 2029
+Gracia 2 — 05 December 2029
+Gracia Final — 04 April 2030
+Gracia Epilogue — 07 September 2030
+Freya — 06 March 2031
+High Five — 03 August 2031
+
+Dates are subject to small adjustments.
+Dates are subject to small adjustments.
+Time between chronicles has been deeply studied and designed for proper server progression based in our large experience in low rate progressive servers.
+
+A Preview of server features, just to give a general idea of the concept.
+
+List is subject to changes as the development and CBT goes on
+
+Preliminary Feature List
+
+Core Features
+
+Account Sharing Limitations / Anti-Driver Measures: An account can only be logged in once per day per HWID, and on no more than 3 HWIDs within the same month. This prevents excessive account sharing, hired drivers, and other abuses that disrupt normal gameplay.
+Stamina System: Characters become exhausted after playing for extended periods of time, causing XP/SP/Adena/Drop/Spoil rates to decrease. Works as a 2nd layer to prevent 24/7 farming and other bad pratices. Read more: ⁠⚫│legacy-chat⁠
+Anti-"NPC" Buffers in MDT / Box Buffers on "Relog": In order to preserve the "no dual-box" spirit and keep support classes relevant and worth inviting to parties, selling buffs or using box buffers through "relog" will not be allowed. Buffs will be cancelled under certain circumstances to prevent this (more details will be shared later).
+Power levelling and other derivatives: This practice is forbidden as per server rules, any form of advertise of offering "power level" for adena or any other form of payment will results in an immediate and permanent ban.
+
+Changes over the Chronicles
+
+From C1: Some quest rewards have been modified a cross the chronicles, mostly the ones that allows players to "spam" alt characters to farm adena, preventing bad gameplay, abuses...
+From C1: Cancel works like Signature.
+From C1: No item drop on death.
+From C1: Map can be used without having it in your inventory.
+From C1: Added a target limit to AoE skills.
+From C1: Added a maximum pull range for all monsters (2500 units, like modern chronicles), preventing exploits, abuses, and excessive monster pulls.
+From C1: Resurrection window timer increased to 3 minutes.
+From C1: Maximum level difference for party experience is 20 levels.
+From C1: Raid Boss / Epic Boss respawns and windows have been adjusted (shorter Epic windows of 4h, Origins/Signature-like).
+From C2: New Manor System 2.0 (explained later), removing the click race. No more clicking at 20:00 every day, with fair reward distribution among all contributors (based on the amount contributed).
+From C2: Maximum M. Crit Rate increased to 80% (technically unreachable anyway, since Wild Magic augment effects are reduced in C6).
+From C2: C2 : Critical Damage static bonuses are affected by the target pdef. (Prevents dagger absurd damage, this fix was made in C3 in retail).
+From C2: Clan Hall 2.0, 28-day rental period, same buffs for all Clan Halls.
+From C4: Changes to Destroyer: Removed the extra P. Atk. from Frenzy when using a pole. Removed the Attack Speed bonus from Zealot when using a pole. Removed the Critical Rate bonus from Zealot when using a pole.
+From C4: Hero weapons are only available for the main class, and each class can only obtain Hero weapons matching its weapon mastery (Signature-like).
+From C4: Olympiad: Available only on weekends (Friday and Saturday), 2 hours per day, with match and point limits (Signature/Origins-like).
+From C4: Hot Springs buffs removed.
+From C4: Sleep cast time increased (C5-like).
+From C4: Materials required for S grade Weapons fixed (Fix originally made in Hellbound in official).
+From C6: Added a system to exchange low-level Life Stones for higher-level ones.
+From C6: Several augments have been reworked (Signature-like), with Wild Magic augments receiving special attention and being nerfed.
+From C6: Flames of Invincibility is removed upon taking any action (Gracia Final-like).
+From Kamael: Subclasses can now be leveled up to level 85.
+From Kamael: Added the Any Sub / Any Certification system to fit well with level 85 subclasses (Origins-like).
+From Kamael: Magic Critical Rate capped at 20%, Magic Critical Damage reduced from x4 to x2 (Gracia Part 1-like, preventing absurd magic damage).
+From Kamael: Knight Epaulettes can be exchanged for Talisman Boxes, which can be opened later at your convenience.
+From Kamael: Talisman Merge feature added (allows you to merge Talismans, combining their remaining duration and saving inventory space).
+From Kamael: Anakim and Zaken transformation skill reuse time increased.
+From Kamael: Instance entries are limited to once per HWID to prevent multi-farming.
+From Hellbound: Added the ability to open multiple Ancient Tomes of the Demon at once through Shadai.
+From Gracia Final: Olympiad match limits added per match type (General, Class-Based, 3v3).
+From Gracia Final: Territory Wars rewards are character-bound (to prevent multi-farming).
+From Gracia Final: Belt ornaments can be exchanged for higher-level ones.
+From Gracia Final: During Territory Wars, flags cannot be taken outside the battle zone or placed in water. If a flag is dropped, it returns to the base.
+From Gracia Epilogue: Core and Orfen are now level 82, with adjusted drops.
+From H5: Ancient Adena exchange through the Black Marketeer is now done via a weekly quest, preventing abuses of the system.
+From H5: Added a new level 82+ Catacomb and Necropolis, allowing players to farm Ancient Adena without level penalty.
+
+📊 Stamina System
+One of the main goals of Reborn Legacy is to preserve the spirit of Lineage II while avoiding the unhealthy feeling of having to grind all day just to remain competitive.
+
+To achieve this, Legacy introduces the Stamina System.
+
+❓ How does it work?
+Every Account has a Stamina Gauge.
+
+While you are actively hunting monsters, your Stamina slowly decreases. As your Stamina gets lower, your EXP, SP, Adena, Drop and Spoil rates are gradually reduced.
+
+Once your Stamina is depleted, you can still continue playing, but regular monster hunting becomes significantly less rewarding until your Stamina is restored.
+
+⚔️ What is Active Hunting?
+You are considered to be actively hunting whenever you are farming monsters and receiving EXP.
+
+After receiving EXP, your character enters the Active Hunting state for a short period. As long as you continue killing monsters, this state is continuously refreshed.
+
+While Active Hunting is active, your Stamina decreases at a rate of 1 point per second.
+
+This means your Stamina is only consumed while you are actually farming.
+
+It is not consumed while you are:
+
+🏙️ Sitting in town.
+💬 Chatting with other players.
+🎒 Organizing your inventory.
+⚒️ Crafting or trading.
+👑 Waiting for a Raid Boss or event.
+☕ Being AFK.
+
+🔋 Daily Stamina
+Every day at the daily reset (06:30 UTC), your Account recovers up 8 hours worth of Stamina. Depending on your current stamina.
+
+If you do not play every day, your Stamina continues to accumulate, allowing you to save it for weekends or longer play sessions.
+
+Stamina can be stored for up to 24 hours of Active Hunting.
+
+📈 Rate Reduction
+Your regular hunting rates are adjusted according to your remaining Stamina, the play time depends on the amount of time that you are actively hunting, you can find below some estimation about the daily play time that may require to consume each Stamina threshold
+
+Playing for 5~6 hours: 100% rates This is here most of the players usually are at (around 90% of the player base)
+Continue playing up to 6~8 hours: 70% rates
+Continue playing up to 8~10 hours 30%
+Continue playing: 5%
+
+Values are subject to small adjustments
+It doesn't affect raid bosses
+
+❤️ Why did we add this system?
+Lineage II has always rewarded efficient gameplay, game knowledge, and making smart decisions. We want to preserve those strengths without encouraging players to spend excessive hours farming every single day.
+
+The Stamina System allows players with limited time to remain competitive while still rewarding those who play more efficiently.
+
+Better preparation, better knowledge of the game, better equipment, and better decision-making will always be rewarded.
+
+The difference is that your progress is measured by how well you play, rather than simply how many hours you can grind every day.
+
+Our goal is not to stop anyone from playing. You are free to continue playing for as long as you like.
+
+Our goal is simply to remove the pressure of feeling that you must farm all day in order to keep up with everyone else.
+
+Reborn's Point of View on Constant Parties (CP)
+Nowadays, the term "CP" (Constant Party) often has a negative reputation within the Lineage II community. Many players immediately associate it with tryhards, cheaters, account sharing, or unhealthy gameplay.
+
+In our opinion, that's not what a Constant Party actually is.
+
+Constant Parties have existed since the very first days of Lineage II, and in MMORPGs in general. At its core, a Constant Party is simply a group of players who decide to play together on a regular basis. They might be clan members, real-life friends, or people who simply enjoy playing together.
+
+There is absolutely nothing wrong with that.
+
+The problem came later, when some groups became obsessed with min-maxing every possible aspect of the game and started bypassing its intended limitations. This created a style of gameplay that very few players could realistically compete with.
+
+Examples include:
+
+Groups of 20, 30 or even 40 players managing several perfectly optimized parties, rotating players in shifts to maintain nearly 24/7 progression during the first weeks of the server.
+Paying other people with real money to play their characters while they sleep or work.
+Paying players to level additional characters dedicated to specific purposes such as Epic Bosses, Spoil, Crafting, Buffers, or any other role that provides a long-term competitive advantage.
+Building an organization where multiple people are effectively playing the same account around the clock.
+
+These groups are also frequently associated with activities that we strongly oppose, such as Real Money Trading (RMT), account sharing, automation, or the use of third-party software.
+
+Those are the rotten apples that gave Constant Parties such a bad reputation.
+
+So, what is Reborn's stance?
+We fully support players who enjoy playing together with their friends.
+
+We do not support gameplay based on account sharing, paid pilots, 24/7 shift rotations, or any other practice that gives an unfair advantage by bypassing the intended limits of the game.
+
+Playing together is part of the MMORPG experience.
+
+Building an organization that effectively plays non-stop is not.
+
+🎉 What about Events?
+Traditionally, in Lineage II, events have rewarded temporary boosts, valuable items, or other gameplay advantages.
+
+While this can be exciting, it also creates a problem: FOMO (Fear of Missing Out).
+
+Players feel forced to participate in events they may not enjoy, log in at times that don't suit them, or spend more time playing than they actually want—simply because missing an event means falling behind.
+
+We don't think that's healthy.
+
+For that reason, all events in Reborn Legacy will reward only cosmetic items.
+
+These cosmetics are permanent, becoming part of your collection forever, but they provide no gameplay advantage whatsoever.
+
+🎨 Chronicle Authenticity
+To preserve the identity of each chronicle, only cosmetics that originally existed during that era of Lineage II will be available.
+
+This means you won't see things such as:
+
+Armor skins in early chronicles.
+Cosmetic cloaks before cloaks officially existed.
+Modern Agathions used purely as cosmetics.
+
+Whenever an item originally had gameplay functionality in that chronicle, it will remain a gameplay item rather than being converted into a cosmetic.
+
+❤️ Our Philosophy
+Events should be something you want to participate in, not something you have to participate in.
+
+They should be short, fun, easy to join, and never make you feel like you're falling behind if you decide to skip one.
+
+If you participate, you'll earn unique cosmetic collectibles to remember the event.
+
+If you don't, your character's progression remains exactly the same.
+
+That's the kind of event system we believe belongs in Reborn Legacy.
+
+The reading continues here: ⁠⚫│legacy-chat⁠
+
+🛡️ Keeping Cheaters Away
+Over the past 7 years, we have built an extensive history of players who have repeatedly engaged in serious rule violations.
+
+As a result, we have a list of around 100 players who will simply not be allowed to play on Reborn Legacy.
+
+This is based on years of accumulated evidence, including account history, emails, character names, IPs, HWIDs, payment records, Discord accounts, and much more.
+
+Why?
+
+Because we've learned that while the overwhelming majority of players are honest, it only takes a handful of bad actors to severely damage the server's economy, community, and competitive environment.
+
+Our goal is to protect the experience of thousands of legitimate players, not to endlessly fight the same people over and over again.
+
+This list will never be public, and neither will the bans.
+
+Accounts belonging to these players will simply be denied access, and any subscription they purchase will be automatically refunded.
+
+If you're worried whether this affects you, it almost certainly doesn't.
+
+The players on this list know exactly why they're there. If you're unsure, you're not one of them.
+
+Reborn Legacy is being built for players who want to enjoy Lineage II the way it was meant to be played: fairly, competitively, and without shortcuts.
+
+Cheaters have no place here.
+
+💳 Server Monetization Model
+One question that comes up from time to time is:
+
+"Why would anyone pay to play on a private Lineage II server?"
+
+It's a fair question, but let's look at the reality of the genre.
+
+On 99% of Lineage II servers, most players end up spending €50, €100, or much more on starter packs, convenience items, or other purchases within just a few months.
+
+Even if you personally spend nothing, someone else is paying for your experience through heavy Pay-to-Win systems or unsustainable monetization.
+
+Running an MMORPG isn't free. Servers, developers, support, infrastructure, anti-cheat systems, and years of continuous development all have a cost.
+
+The only real question is how that cost is paid.
+
+For Reborn Legacy, we chose what we believe is the fairest and healthiest model for both players and the server:
+
+A subscription.
+
+Instead of selling power, progression, or convenience, every player contributes equally to keeping the server alive.
+
+A subscription also allows us to enforce one of Legacy's core principles: limited accounts per player.
+
+Unlimited accounts have always encouraged behaviors that hurt the game: armies of alts, abuse, easier cheating, and gameplay that moves further away from the original Lineage II experience.
+
+📜 Available Plans
+Every subscription includes:
+
+Access to the game.
+One game account.
+Access to the Legacy Discord channels.
+Support Service.
+
+There are two available plans:
+
+🥈 Nobles Plan
+
+1 game account.
+
+🥇 Hero Plan
+
+1 game account.
+1 Offline Shop account.
+
+Offline Shop accounts are limited to level 1 characters that cannot leave town, and exist exclusively for offline trading.
+
+Additional Offline Shop accounts can be purchased (up to 2 per subscription). Remember that your main account can also be used as an Offline Shop whenever you are not actively playing.
+
+💰 Pricing
+🥈 Nobles: €9/month or €89/year (€7.40/month)
+🥇 Hero: €14/month or €139/year (€11.60/month)
+🏪 Additional Offline Shop: €5/month or €50/year (€4.16/month)
+
+During Reborn Anniversary promotions, yearly subscriptions are expected to receive a 50% discount, reducing the effective monthly price to approximately:
+
+🥈 Nobles Plan: €44.50/year (€3.70/month)
+🥇 Hero Plan: €69.50/year (€5.80/month)
+🏪 Additional Offline Shop Account: €25/year (€2.08/month)
+
+At the end of the day, we'd rather ask players to pay a few euros per month than build the game around Pay-to-Win mechanics.
+
+That's the kind of server we want to build, and the kind of server we believe is worth playing. 
