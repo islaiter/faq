@@ -44,3 +44,17 @@ For the videos below, they are all in Russian since I did not find many resource
 
 <a href="https://www.youtube.com/watch?v=odVT_zh4HD4" target="_blank">SWS/BD/EE/BP</a>
 
+# Penalties and Bonuses
+
+## XP Party Bonus
+
+| Party members | C1/C2 | C2-Freya | H5 |
+| | | | |
+| 2 members | 7% | 30% | 10% |
+| 3 members | 14% | 39% | 20% |
+| 4 members | 23% | 50% | 30% |
+| 5 members | 31% | 54% | 40% |
+| 6 members | 40% | 58% | 50% |
+| 7 members | 50% | 63% | 100% |
+| 8 members | 61% | 67% | 110% |
+| 9 members | 72% | 72% | 120% |
