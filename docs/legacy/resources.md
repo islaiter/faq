@@ -48,7 +48,7 @@ For the videos below, they are all in Russian since I did not find many resource
 
 ## XP Party Bonus
 
-| Party members | C1/C2 | C2-Freya | H5 |
+| Party members | C1/C2 | C3-Freya | H5 |
 | | | | |
 | 2 members | 7% | 30% | 10% |
 | 3 members | 14% | 39% | 20% |
