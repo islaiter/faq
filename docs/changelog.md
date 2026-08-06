@@ -1,5 +1,9 @@
 # Changelog
 
+## 6 August 2026
+
+- Fixing Legacy Fatigue system description
+
 ## 4 August 2026
 
 - Changing legacy/fatigue.md with the latest changes from Discord, mostly wording changed from fatigue being character-wide to account-wide, increasing from 4h/day at 100% to 6h/day of 100% and other minor changes

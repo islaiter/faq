@@ -43,9 +43,9 @@ Stamina can be stored for up to 24 hours of Active Hunting.
 
 Your regular hunting rates are adjusted according to your remaining Stamina:
 
-- Playing for 5~6 hours: 100% rates This is here most of the players usually are at (around 90% of the player base)
-- Continue playing up to 6~8 hours: 70% rates
-- Continue playing up to 8~10 hours 30%
+- Playing for 5~6 hours: 100% rates (4 hours of active hunting / effective farming)
+- Continue playing up to 6~8 hours: 70% rates (up to 6 hours of active hunting / effective farming)
+- Continue playing up to 8~10 hours 30% (up to 8 hours of active hunting / effective farming)
 - Continue playing: 5%
 
 Hunting rates affect all of the following:
