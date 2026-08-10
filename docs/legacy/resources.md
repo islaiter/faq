@@ -27,18 +27,30 @@ This guide mostly contains information about everything that happened during C1,
 
 For the videos below, they are all in Russian since I did not find many resources for C1 in English, feel free to use autotranslate for audio in Youtube to English or any other language.
 
-## General overview
+## English Content
+
+<a href="https://www.youtube.com/watch?v=qpsBnsz7pJo" target="_blank">General overview of Chronicle 1</a>
+
+### Supports
+
+<a href="https://www.youtube.com/watch?v=jmKZjLFBooQ" target="_blank">BD/SWS</a>
+
+<a href="https://www.youtube.com/watch?v=WotokBN3cqo" target="_blank">PP/WC/OL</a>
+
+### DDs
+
+## Russian Content
 
 <a href="https://www.youtube.com/watch?v=ek5ptEa-t6A" target="_blank">General overview of classes</a>
 
-## DDs and Tanks
+### DDs and Tanks
 
 <a href="https://www.youtube.com/watch?v=ZQqkTmFrVNI" target="_blank">Tanks and rogues</a>
 
 
 <a href="https://www.youtube.com/watch?v=5_ldcGdNqhQ" target="_blank">Mages and summoners</a>
 
-## Buffers and Healers
+### Buffers and Healers
 
 <a href="https://www.youtube.com/watch?v=nUVck9z1avE" target="_blank">PP/SE/WC/OL</a>
 
