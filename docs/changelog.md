@@ -1,5 +1,10 @@
 # Changelog
 
+## 10 August 2026
+
+- Adding English content under Legacy/Resources for C1 classes
+- Adding Section under Legacy/podcast for future stream
+
 ## 6 August 2026
 
 - Fixing Legacy Fatigue system description
