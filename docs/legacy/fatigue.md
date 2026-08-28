@@ -1,75 +1,58 @@
-# Fatigue or Stamina System
+#  Stamina System
+One of the main goals of Reborn Legacy is to preserve the spirit of Lineage II without creating the unhealthy feeling that you must farm all day just to remain competitive.
 
-One of the main goals of Reborn Legacy is to preserve the spirit of Lineage II while avoiding the unhealthy feeling of having to grind all day just to remain competitive.
+The Stamina System limits neither your playtime nor the content you can participate in. Instead, it gradually reduces regular monster-hunting rewards after you have killed a large number of monsters.
 
-To achieve this, Legacy introduces the Stamina System.
+## How does Stamina work?
+Every Legacy Account has a Stamina Gauge with a maximum capacity of 80,000 points.
 
-## How does it work?
+Each regular monster killed consumes X Stamina Points, regardless of its level. This means that Stamina consumption is determined by how many monsters you kill—not simply by how long you remain connected. While in party the stamina consumed is lower based on the amount of party members (otherwise it won't be possible to play in party).
 
-Every Account has a Stamina Gauge.
+Your current Stamina determines your hunting state:
 
-While you are actively hunting monsters, your Stamina slowly decreases. As your Stamina gets lower, your EXP, SP, Adena, Drop and Spoil rates are gradually reduced.
+- Energized — 20,000 to 80,000 points: 100% rates
+- Fatigued — 10,000 to 19,999 points: 50% rates
+- Exhausted — 1 to 9,999 points: 30% rates
+- Depleted — 0 points: 5% rates without limit
 
-Once your Stamina is depleted, you can still continue playing, but regular monster hunting becomes significantly less rewarding until your Stamina is restored.
+These multipliers affect EXP, SP, Adena, Drop and Spoil obtained from regular monsters.
 
-## What is Active Hunting?
+## Daily Refill and Carryover
+Every day at 06:30 UTC, your Account receives 20,000 Stamina Points.
 
-You are considered to be actively hunting whenever you are farming monsters and receiving EXP.
+If your Stamina is below 20,000 points during the daily reset, it is first restored to 20,000 before the daily refill is added. Therefore, every player starts the new day with at least 40,000 Stamina Points.
 
-After receiving EXP, your character enters the Active Hunting state for a short period. As long as you continue killing monsters, this state is continuously refreshed.
+Examples:
 
-While Active Hunting is active, your Stamina decreases at a rate of 1 point per second.
+0 → 40,000
+10,000 → 40,000
+20,000 → 40,000
+30,000 → 50,000
+60,000 → 80,000
 
-This means your Stamina is only consumed while you are actually farming.
+Unused Stamina is carried over, up to the maximum of 80,000 points. This allows players to accumulate up to three days of full-rate hunting for weekends or longer play sessions.
 
-It is not consumed while you are:
+## Estimated Hunting Time
+We estimate that an average player kills approximately one monster every five seconds.
 
-- Sitting in town.
-- Chatting with other players.
-- Organizing your inventory.
-- Crafting or trading.
-- Waiting for a Raid Boss or event.
-- Being AFK.
+Based on that estimate, a regular day starting with 40,000 points provides approximately:
 
-## Daily Stamina
+- 4 hours at 100% rates
+- 2 additional hours at 50% rates
+- 2 additional hours at 30% rates
+- 5% rates without any time limit afterward
 
-Every day at the daily reset (06:30 UTC), your Account recovers up 8 hours worth of Stamina. Depending on your current stamina.
+These are estimates only. Your actual duration will depend on how quickly you kill monsters. Efficient players and AoE parties will consume Stamina faster, but they will also obtain their rewards much faster.
 
-If you do not play every day, your Stamina continues to accumulate, allowing you to save it for weekends or longer play sessions.
+Stamina is not consumed while sitting in town, chatting, trading, crafting, managing your inventory, waiting for an event or simply being AFK.
 
-Stamina can be stored for up to 24 hours of Active Hunting.
+Raid and Epic Bosses are not affected by the Stamina System.
 
-## Rate Reduction
+## Why are we adding this system?
+Lineage II should reward game knowledge, preparation, equipment, teamwork and efficient decision-making—not simply whoever can farm for the most hours every day.
 
-Your regular hunting rates are adjusted according to your remaining Stamina:
+The Stamina System reduces the progression gap between players with different amounts of available time while preserving the advantages of playing efficiently.
 
-- Playing for 5~6 hours: 100% rates (4 hours of active hunting / effective farming)
-- Continue playing up to 6~8 hours: 70% rates (up to 6 hours of active hunting / effective farming)
-- Continue playing up to 8~10 hours 30% (up to 8 hours of active hunting / effective farming)
-- Continue playing: 5%
+You are always free to continue playing for as long as you want. Even after becoming Depleted, regular monster hunting remains available at 5% rates without any time restriction.
 
-Hunting rates affect all of the following:
-
-- EXP
-- SP
-- Adena
-- Drop
-- Spoil
-
-**It doesn't affect raid bosses**
-
-**Values are subject to small adjustments**
-
-## Why was this system added?
-
-Lineage II has always rewarded efficient gameplay, game knowledge, and making smart decisions. We want to preserve those strengths without encouraging players to spend excessive hours farming every single day.
-
-The Stamina System allows players with limited time to remain competitive while still rewarding those who play more efficiently.
-
-Better preparation, better knowledge of the game, better equipment, and better decision-making will always be rewarded.
-
-The difference is that your progress is measured by how well you play, rather than simply how many hours you can grind every day.
-
-Reborn's team goal is not to stop anyone from playing. You are free to continue playing for as long as you like.
-
-Reborn's team goal is simply to remove the pressure of feeling that you must farm all day in order to keep up with everyone else.
+Our objective is not to tell anyone when to stop playing. It is to remove the pressure of feeling that you must grind all day just to keep up.

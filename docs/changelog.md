@@ -1,5 +1,10 @@
 # Changelog
 
+## 28 August 2026
+
+- Fatigue section updated with latest info
+- Podcast section, first peek at manor rework and Q&A
+
 ## 10 August 2026
 
 - Adding English content under Legacy/Resources for C1 classes
