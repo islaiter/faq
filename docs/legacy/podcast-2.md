@@ -98,3 +98,9 @@ No, no problem getting buffed if your toon is AFK on town, it's just a warning t
 
 # Any plan for more mobs at start?
 They are considering it, but need to study it so people don't "abuse" AOE or any abnormal gameplay
+
+## Any plan to have change ticket in future?
+Nothing, no class change, no sub to main, no name change, no clan name change, nothing at all
+
+## Is maybe stamina going to be checked if there is going to be any problem with it?
+Always open to improve it but Nikita believes most of it is going to be working, there might be needed some adjustments, but they want to check during OBT race in case some minor adjustments are needed.
