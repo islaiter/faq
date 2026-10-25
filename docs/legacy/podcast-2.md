@@ -120,3 +120,9 @@ Yes, it's being considered and not done yet, but they need to finish some other 
 ## Is epics 2h windows going to happen?
 Yes, it is going to happen
 
+## Is starting stamina going to be 40k?
+Yes
+
+## Can we sell recharges?
+No
+
