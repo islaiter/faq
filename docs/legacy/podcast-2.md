@@ -104,3 +104,19 @@ Nothing, no class change, no sub to main, no name change, no clan name change, n
 
 ## Is maybe stamina going to be checked if there is going to be any problem with it?
 Always open to improve it but Nikita believes most of it is going to be working, there might be needed some adjustments, but they want to check during OBT race in case some minor adjustments are needed.
+
+## What's the final value for pulling range?
+Expanded in open field areas, in dungeon-type areas (catas, cruma, etc), is going to be smaller, subject to some slight changes but they feel like it's working as intended.
+
+## Is the quest limit repeatable quests only?
+Yes, repeatabled quests only are limited
+
+## Spoil OOP does not use stamina, will this be changed?
+It's one of the changes, together with summoners, and both are under review at the moment, no full answer for now as it's open topic
+
+## Still considering mail only obtainable from same town it was sent?
+Yes, it's being considered and not done yet, but they need to finish some other tasks before discussing it further.
+
+## Is epics 2h windows going to happen?
+Yes, it is going to happen
+
