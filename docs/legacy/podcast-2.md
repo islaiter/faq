@@ -96,7 +96,7 @@ They will keep original initial CD
 ## Can we get catpcha while getting buffs in town with offline shop and get ban?
 No, no problem getting buffed if your toon is AFK on town, it's just a warning to GMs that something might be going on, but no problem for chars in town if you miss them
 
-# Any plan for more mobs at start?
+## Any plan for more mobs at start?
 They are considering it, but need to study it so people don't "abuse" AOE or any abnormal gameplay
 
 ## Any plan to have change ticket in future?
